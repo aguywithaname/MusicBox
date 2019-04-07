@@ -1,0 +1,128 @@
+C:\ITLabs\Lab 02\MusicBox\MusicBox\bin\Debug\MusicBox.exe
+C:\ITLabs\Lab 02\MusicBox\MusicBox\bin\Debug\MusicBox.pdb
+C:\ITLabs\Lab 02\MusicBox\MusicBox\obj\Debug\ResolveAssemblyReference.cache
+C:\ITLabs\Lab 02\MusicBox\MusicBox\obj\Debug\MusicBox.Form1.resources
+C:\ITLabs\Lab 02\MusicBox\MusicBox\obj\Debug\MusicBox.Properties.Resources.resources
+C:\ITLabs\Lab 02\MusicBox\MusicBox\obj\Debug\MusicBox.csproj.GenerateResource.Cache
+C:\ITLabs\Lab 02\MusicBox\MusicBox\obj\Debug\MusicBox.exe
+C:\ITLabs\Lab 02\MusicBox\MusicBox\obj\Debug\MusicBox.pdb
+C:\Joselyn\Lab 02\MusicBox\MusicBox\obj\Debug\MusicBox.exe
+C:\Joselyn\Lab 02\MusicBox\MusicBox\obj\Debug\MusicBox.pdb
+C:\ItLabs\Lab02\MusicBox\MusicBox\obj\Debug\MusicBox.exe
+C:\ItLabs\Lab02\MusicBox\MusicBox\obj\Debug\MusicBox.pdb
+C:\ItLabs\Lab02\MusicBox\MusicBox\bin\Debug\MusicBox.exe
+C:\ItLabs\Lab02\MusicBox\MusicBox\bin\Debug\MusicBox.pdb
+C:\ItLabs\Lab02\MusicBox\MusicBox\obj\Debug\ResolveAssemblyReference.cache
+C:\ItLabs\Lab02\MusicBox\MusicBox\obj\Debug\MusicBox.Form1.resources
+C:\ItLabs\Lab02\MusicBox\MusicBox\obj\Debug\MusicBox.Properties.Resources.resources
+C:\ItLabs\Lab02\MusicBox\MusicBox\obj\Debug\MusicBox.csproj.GenerateResource.Cache
+C:\ItLabs\Lab04\MusicBox\MusicBox\obj\Debug\MusicBox.exe
+C:\ItLabs\Lab04\MusicBox\MusicBox\obj\Debug\MusicBox.pdb
+C:\ItLabs\Lab04\MusicBox\MusicBox\obj\Debug\ResolveAssemblyReference.cache
+C:\ItLabs\Lab04\MusicBox\MusicBox\obj\Debug\MusicBox.Form1.resources
+C:\ItLabs\Lab04\MusicBox\MusicBox\obj\Debug\MusicBox.Properties.Resources.resources
+C:\ItLabs\Lab04\MusicBox\MusicBox\obj\Debug\MusicBox.csproj.GenerateResource.Cache
+C:\ItLabs\Lab04\MusicBox\MusicBox\bin\Debug\MusicBox.exe
+C:\ItLabs\Lab04\MusicBox\MusicBox\bin\Debug\MusicBox.pdb
+C:\ItLabs\Lab04B\MusicBox\MusicBox\obj\Debug\MusicBox.exe
+C:\ItLabs\Lab04B\MusicBox\MusicBox\obj\Debug\MusicBox.pdb
+C:\ItLabs\Lab04B\MusicBox\MusicBox\bin\Debug\MusicBox.exe
+C:\ItLabs\Lab04B\MusicBox\MusicBox\bin\Debug\MusicBox.pdb
+C:\ItLabs\Lab04B\MusicBox\MusicBox\obj\Debug\ResolveAssemblyReference.cache
+C:\ItLabs\Lab04B\MusicBox\MusicBox\obj\Debug\MusicBox.Form1.resources
+C:\ItLabs\Lab04B\MusicBox\MusicBox\obj\Debug\MusicBox.Properties.Resources.resources
+C:\ItLabs\Lab04B\MusicBox\MusicBox\obj\Debug\MusicBox.csproj.GenerateResource.Cache
+C:\ItLabs\Lab07\MusicBox\MusicBox\obj\Debug\MusicBox.exe
+C:\ItLabs\Lab07\MusicBox\MusicBox\obj\Debug\MusicBox.pdb
+C:\ItLabs\Lab07\Music Box 2\MusicBox\obj\Debug\MusicBox.exe
+C:\ItLabs\Lab07\Music Box 2\MusicBox\obj\Debug\MusicBox.pdb
+C:\ItLabs\Lab07\Music Box 2\MusicBox\bin\Debug\MusicBox.exe
+C:\ItLabs\Lab07\Music Box 2\MusicBox\bin\Debug\MusicBox.pdb
+C:\ItLabs\Lab07\Music Box 2\MusicBox\obj\Debug\ResolveAssemblyReference.cache
+C:\ItLabs\Lab07\Music Box 2\MusicBox\obj\Debug\MusicBox.Form1.resources
+C:\ItLabs\Lab07\Music Box 2\MusicBox\obj\Debug\MusicBox.Properties.Resources.resources
+C:\ItLabs\Lab07\Music Box 2\MusicBox\obj\Debug\MusicBox.csproj.GenerateResource.Cache
+C:\ItLabs\Lab07B\Music Box 2\MusicBox\obj\Debug\MusicBox.exe
+C:\ItLabs\Lab07B\Music Box 2\MusicBox\obj\Debug\MusicBox.pdb
+C:\ItLabs\Lab07B\Music Box 2\MusicBox\bin\Debug\MusicBox.exe
+C:\ItLabs\Lab07B\Music Box 2\MusicBox\bin\Debug\MusicBox.pdb
+C:\ItLabs\Lab07B\Music Box 2\MusicBox\obj\Debug\ResolveAssemblyReference.cache
+C:\ItLabs\Lab07B\Music Box 2\MusicBox\obj\Debug\MusicBox.frmMusicBox.resources
+C:\ItLabs\Lab07B\Music Box 2\MusicBox\obj\Debug\MusicBox.Properties.Resources.resources
+C:\ItLabs\Lab07B\Music Box 2\MusicBox\obj\Debug\MusicBox.csproj.GenerateResource.Cache
+C:\ItLabs\Lab07B\Music Box 2\MusicBox\obj\Debug\MusicBox.frmSlideShow.resources
+C:\ItLabs\Lab07C\Music Box 2\MusicBox\obj\Debug\MusicBox.exe
+C:\ItLabs\Lab07C\Music Box 2\MusicBox\obj\Debug\MusicBox.pdb
+C:\ItLabs\Lab07C\Music Box 3\MusicBox\obj\Debug\MusicBox.exe
+C:\ItLabs\Lab07C\Music Box 3\MusicBox\obj\Debug\MusicBox.pdb
+C:\ItLabs\Lab07C\Music Box 3\MusicBox\bin\Debug\MusicBox.exe
+C:\ItLabs\Lab07C\Music Box 3\MusicBox\bin\Debug\MusicBox.pdb
+C:\ItLabs\Lab07C\Music Box 3\MusicBox\obj\Debug\ResolveAssemblyReference.cache
+C:\ItLabs\Lab07C\Music Box 3\MusicBox\obj\Debug\MusicBox.frmMusicBox.resources
+C:\ItLabs\Lab07C\Music Box 3\MusicBox\obj\Debug\MusicBox.frmSlideShow.resources
+C:\ItLabs\Lab07C\Music Box 3\MusicBox\obj\Debug\MusicBox.Properties.Resources.resources
+C:\ItLabs\Lab07C\Music Box 3\MusicBox\obj\Debug\MusicBox.csproj.GenerateResource.Cache
+C:\ItLabs\Lab08\Music Box 5\MusicBox\obj\Debug\MusicBox.exe
+C:\ItLabs\Lab08\Music Box 5\MusicBox\obj\Debug\MusicBox.pdb
+C:\ItLabs\Lab08\Music Box 5\MusicBox\bin\Debug\MusicBox.exe
+C:\ItLabs\Lab08\Music Box 5\MusicBox\bin\Debug\MusicBox.pdb
+C:\ItLabs\Lab08\Music Box 5\MusicBox\obj\Debug\ResolveAssemblyReference.cache
+C:\ItLabs\Lab08\Music Box 5\MusicBox\obj\Debug\MusicBox.frmMusicBox.resources
+C:\ItLabs\Lab08\Music Box 5\MusicBox\obj\Debug\MusicBox.frmSlideShow.resources
+C:\ItLabs\Lab08\Music Box 5\MusicBox\obj\Debug\MusicBox.Properties.Resources.resources
+C:\ItLabs\Lab08\Music Box 5\MusicBox\obj\Debug\MusicBox.csproj.GenerateResource.Cache
+C:\Patrick Work\ITLabs 2010\Lab08\Music Box 5\MusicBox\obj\Debug\MusicBox.exe
+C:\Patrick Work\ITLabs 2010\Lab08\Music Box 5\MusicBox\obj\Debug\MusicBox.pdb
+C:\Patrick Work\ITLabs 2010\Lab08\Music Box 5\MusicBox\bin\Debug\MusicBox.exe
+C:\Patrick Work\ITLabs 2010\Lab08\Music Box 5\MusicBox\bin\Debug\MusicBox.pdb
+C:\Patrick Work\ITLabs 2010\Lab08\Music Box 5\MusicBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Patrick Work\ITLabs 2010\Lab08\Music Box 5\MusicBox\obj\Debug\MusicBox.frmMusicBox.resources
+C:\Patrick Work\ITLabs 2010\Lab08\Music Box 5\MusicBox\obj\Debug\MusicBox.frmSlideShow.resources
+C:\Patrick Work\ITLabs 2010\Lab08\Music Box 5\MusicBox\obj\Debug\MusicBox.Properties.Resources.resources
+C:\Patrick Work\ITLabs 2010\Lab08\Music Box 5\MusicBox\obj\Debug\MusicBox.csproj.GenerateResource.Cache
+C:\Patrick Work\.NET Windows 2008\Music Box 5\MusicBox\obj\Debug\MusicBox.exe
+C:\Patrick Work\.NET Windows 2008\Music Box 5\MusicBox\obj\Debug\MusicBox.pdb
+C:\Patrick Work\.NET Windows 2008\Music Box 5\MusicBox\bin\Debug\MusicBox.exe
+C:\Patrick Work\.NET Windows 2008\Music Box 5\MusicBox\bin\Debug\MusicBox.pdb
+C:\Patrick Work\.NET Windows 2008\Music Box 5\MusicBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Patrick Work\.NET Windows 2008\Music Box 5\MusicBox\obj\Debug\MusicBox.frmMusicBox.resources
+C:\Patrick Work\.NET Windows 2008\Music Box 5\MusicBox\obj\Debug\MusicBox.frmSlideShow.resources
+C:\Patrick Work\.NET Windows 2008\Music Box 5\MusicBox\obj\Debug\MusicBox.Properties.Resources.resources
+C:\Patrick Work\.NET Windows 2008\Music Box 5\MusicBox\obj\Debug\MusicBox.csproj.GenerateResource.Cache
+C:\Patrick Work\.NET Windows 2008\Music Box 5\MusicBox\bin\Debug\Interop.QuartzTypeLib.dll
+C:\Patrick Work\ITLabs 2010\2017\Music Box 5 2008\MusicBox\bin\Debug\MusicBox.exe
+C:\Patrick Work\ITLabs 2010\2017\Music Box 5 2008\MusicBox\bin\Debug\MusicBox.pdb
+C:\Patrick Work\ITLabs 2010\2017\Music Box 5 2008\MusicBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Patrick Work\ITLabs 2010\2017\Music Box 5 2008\MusicBox\obj\Debug\MusicBox.frmMusicBox.resources
+C:\Patrick Work\ITLabs 2010\2017\Music Box 5 2008\MusicBox\obj\Debug\MusicBox.Properties.Resources.resources
+C:\Patrick Work\ITLabs 2010\2017\Music Box 5 2008\MusicBox\obj\Debug\MusicBox.csproj.GenerateResource.Cache
+C:\Patrick Work\ITLabs 2010\2017\Music Box 5 2008\MusicBox\obj\Debug\MusicBox.exe
+C:\Patrick Work\ITLabs 2010\2017\Music Box 5 2008\MusicBox\obj\Debug\MusicBox.pdb
+C:\Patrick Work\ITLabs 2010\2017\MusicBox_2008\MusicBox\obj\Debug\MusicBox.exe
+C:\Patrick Work\ITLabs 2010\2017\MusicBox_2008\MusicBox\obj\Debug\MusicBox.pdb
+C:\Patrick Work\ITLabs 2010\2017\MusicBox_2008\MusicBox\bin\Debug\MusicBox.exe
+C:\Patrick Work\ITLabs 2010\2017\MusicBox_2008\MusicBox\bin\Debug\MusicBox.pdb
+C:\Patrick Work\ITLabs 2010\2017\MusicBox_2008\MusicBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Patrick Work\ITLabs 2010\2017\MusicBox_2008\MusicBox\obj\Debug\MusicBox.frmMusicBox.resources
+C:\Patrick Work\ITLabs 2010\2017\MusicBox_2008\MusicBox\obj\Debug\MusicBox.Properties.Resources.resources
+C:\Patrick Work\ITLabs 2010\2017\MusicBox_2008\MusicBox\obj\Debug\MusicBox.csproj.GenerateResource.Cache
+C:\Patrick Work\ITLabs 2010\2017\Student\MusicBox_2008\MusicBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Patrick Work\ITLabs 2010\2017\Student\MusicBox_2008\MusicBox\obj\Debug\MusicBox.frmMusicBox.resources
+C:\Patrick Work\ITLabs 2010\2017\Student\MusicBox_2008\MusicBox\obj\Debug\MusicBox.Properties.Resources.resources
+C:\Patrick Work\ITLabs 2010\2017\Student\MusicBox_2008\MusicBox\obj\Debug\MusicBox.csproj.GenerateResource.Cache
+C:\Patrick Work\ITLabs 2010\2017\Student\MusicBox_2008\MusicBox\bin\Debug\MusicBox.exe
+C:\Patrick Work\ITLabs 2010\2017\Student\MusicBox_2008\MusicBox\bin\Debug\MusicBox.pdb
+C:\Patrick Work\ITLabs 2010\2017\Student\MusicBox_2008\MusicBox\obj\Debug\MusicBox.exe
+C:\Patrick Work\ITLabs 2010\2017\Student\MusicBox_2008\MusicBox\obj\Debug\MusicBox.pdb
+D:\JasonChow Lab\Lab01\MusicBox_2008\MusicBox\bin\Debug\MusicBox.exe.manifest
+D:\JasonChow Lab\Lab01\MusicBox_2008\MusicBox\bin\Debug\MusicBox.application
+D:\JasonChow Lab\Lab01\MusicBox_2008\MusicBox\bin\Debug\MusicBox.exe
+D:\JasonChow Lab\Lab01\MusicBox_2008\MusicBox\bin\Debug\MusicBox.pdb
+D:\JasonChow Lab\Lab01\MusicBox_2008\MusicBox\obj\Debug\MusicBox.frmMusicBox.resources
+D:\JasonChow Lab\Lab01\MusicBox_2008\MusicBox\obj\Debug\MusicBox.Properties.Resources.resources
+D:\JasonChow Lab\Lab01\MusicBox_2008\MusicBox\obj\Debug\MusicBox.csproj.GenerateResource.Cache
+D:\JasonChow Lab\Lab01\MusicBox_2008\MusicBox\obj\Debug\MusicBox.exe.manifest
+D:\JasonChow Lab\Lab01\MusicBox_2008\MusicBox\obj\Debug\MusicBox.application
+D:\JasonChow Lab\Lab01\MusicBox_2008\MusicBox\obj\Debug\MusicBox.exe
+D:\JasonChow Lab\Lab01\MusicBox_2008\MusicBox\obj\Debug\MusicBox.pdb
+D:\JasonChow Lab\Lab01\MusicBox_2008\MusicBox\obj\Debug\MusicBox.csprojResolveAssemblyReference.cache
